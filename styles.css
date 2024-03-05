@@ -1,3 +1,6 @@
+#mainheading {
+    color: red;
+}
 
 body {
     background-color: #f9f4c8; /* Pale pink*/
@@ -10,12 +13,10 @@ p {
     font-weight: bold; font-style:oblique ;
 }
 
-#mainHeading{
-    color:#c8cdf9;
-}
+
 h2 {
     color: #c8cdf9;
 }
-#funParagraph{
+.funparagraph{
     color: #c8f9f4;
 }
